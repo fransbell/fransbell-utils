@@ -5,7 +5,6 @@ phaser starter boilerplate module / code splitting with parceljs.
 - to start dev server run
 
 ```
-npm start // or
-npm start
-
+npm install
+npm start // or parcel
 ```
